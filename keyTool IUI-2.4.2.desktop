@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=keyTool IUI-2.4.2
+Exec='/opt/keyTool IUI-2.4.2/main.jar'
+Comment=
+Terminal=false
+PrefersNonDefaultGPU=false
+Icon=/opt/keyTool IUI-2.4.2/icon.png
+Type=Application
